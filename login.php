@@ -20,9 +20,7 @@ $errormsg  = "Invalid email or password!";
 } else {
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
 
   
